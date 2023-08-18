@@ -1,6 +1,6 @@
-### Experiment No: #### 01
+### Experiment No: 01
 
-### Experiment Date: #### 19.03.2023
+### Experiment Date: 19.03.2023
 
 ### Experiment Name: 
 Implementation of convolution of two signals,
