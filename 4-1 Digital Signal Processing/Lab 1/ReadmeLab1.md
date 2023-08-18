@@ -4,8 +4,10 @@
 
 ### Experiment Name: 
 Implementation of convolution of two signals,
-    1. using Conv. Function
-    2. without using Conv. Function
+<ol>
+  <li> using Conv. Function</li>
+  <li>without using Conv. Function</li>
+</ol>
 
 ### Theory:
 In the experiment, we worked with continuous and discrete signals. A signal that varies smoothly and continuously over time is referred to as a continuous-time signal. These signals represent a quantity of interest that is influenced by an independent variable, usually considered as time. A discrete-time signal is a sequence of values of interest, where the integer index can be thought of as a time index, and the values in the sequence represent some physical quantity of interest.
