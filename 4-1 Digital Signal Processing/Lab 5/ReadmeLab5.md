@@ -1,7 +1,8 @@
 ### Experiment No: 05
 ### Experiment Date: 22.05.23
 
-### Experiment Name: Study and implementation of finding the Z-transform and inverse Z-transform of a function.
+### Experiment Name: 
+Study and implementation of finding the Z-transform and inverse Z-transform of a function.
 
 ### Theory:
 
