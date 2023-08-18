@@ -6,7 +6,7 @@ Study and implementation of finding the Z-transform and inverse Z-transform of a
 
 ### Theory:
 
-####Z Transform:
+#### Z Transform:
 The Z-Transform is a powerful technique for transforming discrete-time signals into the complex frequency domain. It's particularly useful for analyzing the stability, transient response, and frequency 
 characteristics of discrete systems. The general formula for the Z-Transform of a sequence x[n] is given by:
 
